@@ -200,11 +200,20 @@
   .mt-\[20px\] {
     margin-top: 20px;
   }
+  .mt-\[30px\] {
+    margin-top: 30px;
+  }
   .mt-\[40px\] {
     margin-top: 40px;
   }
   .mt-\[50px\] {
     margin-top: 50px;
+  }
+  .mt-\[60px\] {
+    margin-top: 60px;
+  }
+  .mt-\[80px\] {
+    margin-top: 80px;
   }
   .flex {
     display: flex;
@@ -247,6 +256,9 @@
   }
   .w-\[213px\] {
     width: 213px;
+  }
+  .w-\[240px\] {
+    width: 240px;
   }
   .w-\[241px\] {
     width: 241px;
