@@ -299,6 +299,9 @@
   .w-\[300px\] {
     width: 300px;
   }
+  .w-\[340px\] {
+    width: 340px;
+  }
   .w-\[400px\] {
     width: 400px;
   }
@@ -387,6 +390,9 @@
   }
   .text-center {
     text-align: center;
+  }
+  .text-start {
+    text-align: start;
   }
   .text-2xl {
     font-size: var(--text-2xl);
